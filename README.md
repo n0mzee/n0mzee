@@ -1,16 +1,34 @@
-## Hi there 👋
+## Sugoi! You’re finally here!⚡✨Konnichiwa, nakama!👋
+<h4>Behold! The legendary <b>Onome</b>-sama has entered the chat! As a DevOps Engineer, my ultimate quest is to ensure developers can unleash their full potential without ever having to battle the fearsome beasts known as failed deployments and infrastructure headaches! 🏯💻</h4>
 
-<!--
-**n0mzee/n0mzee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 My Ultimate Mission:
+I wield the powers of Terraform and ADO 🚀 to forge mighty tools that automate those pesky sysadmin tasks—so devs can focus on crafting legendary solutions and world-changing products! 🌍✨
 
-Here are some ideas to get you started:
+## 🔥 Current Training Arc:
+<ul>
+<li>Learning the sacred arts of MLOPs and Azure ML 📜💡</li>
+<li>Seeking allies to co-develop SRE & DevOps tools that make development faster, stronger, and unbreakable! 💪🔧🛡️</li>
+<li>Sharing wisdom on career transitions into tech & leveling up in DevOps! 🎓🛤️</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📡 Summon Me:
+📧 onome.aniyeye@gmail.com (Use your ultimate technique: "Send Mail no Jutsu!") 💌
+
+
+# 💻 Tech Stack:
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white). ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=n0mzee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=n0mzee&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=n0mzee&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=n0mzee&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=n0mzee&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n0mzee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onome-aniyeye) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/n0mzee_) 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
