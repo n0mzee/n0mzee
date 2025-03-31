@@ -26,10 +26,15 @@ Like Kirito, I wield the twin swords of IaC and CI/CD ⚔️ to slash through do
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=n0mzee&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=n0mzee&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=n0mzee&limit=5&theme=gotham&combine_all_yearly_contributions=true) -->
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/n0mzee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onome-aniyeye) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/n0mzee_) 
+
+---
+[![](https://visitcount.itsvg.in/api?id=n0mzee&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
