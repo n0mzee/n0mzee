@@ -1,8 +1,9 @@
 ## Sugoi! You’re finally here!⚡✨Konnichiwa, nakama!👋
-<h4>Behold! The legendary <b>Onome</b>-sama has entered the chat! As a DevOps Engineer, my ultimate quest is to ensure developers can unleash their full potential without ever having to battle the fearsome beasts known as failed deployments and infrastructure headaches! 🏯💻</h4>
+<h3>Behold! The legendary <b>Onome</b>-sama has entered the chat! <br></h3>
+As a DevOps Engineer, my ultimate quest is to ensure developers can unleash their full potential without ever having to battle the fearsome beasts known as failed deployments and infrastructure headaches! 🏯💻
 
 ## 🏆 My Ultimate Mission:
-I wield the powers of Terraform and ADO 🚀 to forge mighty tools that automate those pesky sysadmin tasks—so devs can focus on crafting legendary solutions and world-changing products! 🌍✨
+Like Kirito, I wield the twin swords of IaC and CI/CD ⚔️ to slash through downtime and obliterate deployment chaos! With Terraform as my Elucidator and Azure Pipelines 🚀 as my Dark Repulser, I forge mighty tools that automate those pesky sysadmin tasks—so devs can focus on crafting legendary solutions and world-changing products! 🌍✨
 
 ## 🔥 Current Training Arc:
 <ul>
